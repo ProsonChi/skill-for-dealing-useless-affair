@@ -1,9 +1,3 @@
-# Skills for everyday tasks / 日常任务技能集
-
-这个仓库用于收集可单独安装的 Codex 技能。每个技能位于独立文件夹，方便以后添加更多技能。
-
-A collection of individually installable Codex skills. Each skill has its own folder so the repository can grow over time.
-
 ## Skills / 技能列表
 
 | Skill | 用途 / Purpose |

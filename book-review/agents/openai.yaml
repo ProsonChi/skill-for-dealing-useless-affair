@@ -1,0 +1,4 @@
+interface:
+  display_name: Book review
+  short_description: 通读上传书籍，结合岗位与公司背景撰写指定字数的读后感并润色评审
+  default_prompt: 使用 $book-review，通读我上传的书籍，结合我的岗位、公司背景和字数范围撰写读后感。
